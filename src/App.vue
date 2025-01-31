@@ -1,5 +1,6 @@
 <template>
   <RouterView />
+  salom dunyo
 </template>
 
 <script setup>
