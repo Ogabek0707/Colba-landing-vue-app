@@ -11,7 +11,7 @@ import VueTheMask from "vue-the-mask"
 // import 'element-plus/dist/index.css'
 // import "@hennge/vue3-pagination/dist/vue3-pagination.css";
 
-import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
+// import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 
 const app = createApp(App)
 
@@ -19,7 +19,7 @@ app.use(createPinia())
 app.use(router)
 app.use(VueTheMask)
 app.use(veeValidatePlugins)
-.component('font-awesome-icon', FontAwesomeIcon)
+// .component('font-awesome-icon', FontAwesomeIcon)
 // for (const [key, component] of Object.entries(ElementPlusIconsVue)) {
 //        app.component(key, component)
 // }
