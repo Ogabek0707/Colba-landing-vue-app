@@ -6,7 +6,6 @@ import { createPinia } from 'pinia'
 import App from './App.vue'
 import router from './router'
 import veeValidatePlugins from './plugins/vee-validate'
-import ElementPlus from 'element-plus'
 import * as ElementPlusIconsVue from '@element-plus/icons-vue'
 import VueTheMask from "vue-the-mask"
 import 'element-plus/dist/index.css'
