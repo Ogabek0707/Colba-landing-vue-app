@@ -8,7 +8,7 @@ import router from './router'
 import veeValidatePlugins from './plugins/vee-validate'
 // import * as ElementPlusIconsVue from '@element-plus/icons-vue'
 import VueTheMask from "vue-the-mask"
-import 'element-plus/dist/index.css'
+// import 'element-plus/dist/index.css'
 import "@hennge/vue3-pagination/dist/vue3-pagination.css";
 
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
